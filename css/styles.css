@@ -18,16 +18,14 @@
  .card {
   position: relative;
   background: linear-gradient(180deg, #ee5113 0%, #0d0425 100%);
-  width: 12rem;
+  width: 13rem;
+  height: 250px;
   overflow: hidden;
-  box-shadow: 15px 15px 25px black;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.938);
   margin-top: -25px;
-
-  margin-right: 10px;
-
+  margin-right: 5px;
   margin-bottom: 100px;
-
-  margin-left: 100px;
+  margin-left: 80px;
 }
 .card img {
   width: 100%;
